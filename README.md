@@ -6,7 +6,7 @@ Registro de Pensamentos is a simple project that allows you to capture and organ
 
 Abra o terminal cole os seguintes comandos:
 ````
-git clone https:github.com/devmitz/Registro-de-pensamentos
+git clone https://www.github.com/devmitz/Registro-de-pensamentos
 cd Registro-de-pensamentos
 python3 main.py
 ````
