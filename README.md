@@ -20,7 +20,7 @@ Certifique-se de ter o Python instalado em sua máquina. Este projeto foi desenv
 
 Para verificar se o Python está instalado, abra o terminal e execute o seguinte comando:
 
-``` python --version ```
+```` python --version ````
 
 Caso o comando não seja reconhecido ou a versão exibida não seja a desejada, você pode baixar o Python em python.org e seguir as instruções de instalação para o seu sistema operacional.
 
@@ -32,7 +32,7 @@ Se o pip não estiver instalado, você pode seguir as instruções em https://pi
 4. Dependências do Projeto
 Para instalar as dependencias do projeto digite no terminal
 
-``` pip install -r requirements.txt ```
+```` pip install -r requirements.txt ````
 
 
 ## Contribuindo
