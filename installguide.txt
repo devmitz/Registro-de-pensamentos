@@ -1,6 +1,0 @@
-how to install:
-
-open terminal >
-pip install -r requiriments.txt
-
-finish
